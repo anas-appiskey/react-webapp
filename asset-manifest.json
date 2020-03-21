@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/anasali2193/react-webapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/anasali2193/react-webapp/static/js/main.ec000d2e.chunk.js",
-    "main.js.map": "/anasali2193/react-webapp/static/js/main.ec000d2e.chunk.js.map",
-    "runtime-main.js": "/anasali2193/react-webapp/static/js/runtime-main.e568ec36.js",
-    "runtime-main.js.map": "/anasali2193/react-webapp/static/js/runtime-main.e568ec36.js.map",
-    "static/js/2.055218eb.chunk.js": "/anasali2193/react-webapp/static/js/2.055218eb.chunk.js",
-    "static/js/2.055218eb.chunk.js.map": "/anasali2193/react-webapp/static/js/2.055218eb.chunk.js.map",
-    "index.html": "/anasali2193/react-webapp/index.html",
-    "precache-manifest.dfe2271f408af37ac97e0fb4922b606f.js": "/anasali2193/react-webapp/precache-manifest.dfe2271f408af37ac97e0fb4922b606f.js",
-    "service-worker.js": "/anasali2193/react-webapp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/anasali2193/react-webapp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.055218eb.chunk.js.LICENSE.txt": "/anasali2193/react-webapp/static/js/2.055218eb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/anasali2193/react-webapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-webapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-webapp/static/js/main.e2fd5dd3.chunk.js",
+    "main.js.map": "/react-webapp/static/js/main.e2fd5dd3.chunk.js.map",
+    "runtime-main.js": "/react-webapp/static/js/runtime-main.378a5109.js",
+    "runtime-main.js.map": "/react-webapp/static/js/runtime-main.378a5109.js.map",
+    "static/js/2.055218eb.chunk.js": "/react-webapp/static/js/2.055218eb.chunk.js",
+    "static/js/2.055218eb.chunk.js.map": "/react-webapp/static/js/2.055218eb.chunk.js.map",
+    "index.html": "/react-webapp/index.html",
+    "precache-manifest.d23a78ad09124aa22849a4117d5ac93c.js": "/react-webapp/precache-manifest.d23a78ad09124aa22849a4117d5ac93c.js",
+    "service-worker.js": "/react-webapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-webapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.055218eb.chunk.js.LICENSE.txt": "/react-webapp/static/js/2.055218eb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-webapp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e568ec36.js",
+    "static/js/runtime-main.378a5109.js",
     "static/js/2.055218eb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ec000d2e.chunk.js"
+    "static/js/main.e2fd5dd3.chunk.js"
   ]
 }
